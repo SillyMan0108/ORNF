@@ -1,10 +1,12 @@
 # ORNF
-SillyMan's old, removed and newer features mod. Works with minecraft 1.12.2, forge 14.23.5.2796. 
-[![](http://cf.way2muchnoise.eu/short_old-removed-and-newer-features_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/old-removed-and-newer-features) [![](http://cf.way2muchnoise.eu/versions/old-removed-and-newer-features.svg)](https://www.curseforge.com/minecraft/mc-mods/old-removed-and-newer-features)
+SillyMan's old, removed and newer features mod.
 
-SillyMan0108 presents his greatest mod to date: the old, removed and newer features mod. Started in early 2018, he aimed for it to simply add back old and removed features. However, since then, he has expanded it into including old removed and newer features, hence the name. More info coming, so please stay tuned for more!
+To Do: add more stuff here, upload source code
 
-Requires Forge 14.23.5.2796 and Minecraft 1.12.2.
+just a marker:
+Version 1 - MCreator
+Version 2 - Java
+Version 3 - Java
+Version 4 (Current) - Java
 
-TO DO:
-redo this readme
+i don't save my source code so i've had to start over a ton...i should get better at that.
